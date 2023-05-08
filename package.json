@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "start": "react-scripts start"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "react-scripts": "^5.0.1",
+        "vite": "^4.0.0"
+    },
+    "browserslist": [
+        "> 0.2%",
+        "last 2 versions",
+        "not dead"
+    ],
+    "dependencies": {
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.11.1"
+    }
+}

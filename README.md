@@ -1,27 +1,66 @@
-# G08_SoftLogic_Innovations
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-# Distribution of tasks
+## About Laravel
 
-sprint 1 - specification 
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-**A20456**, your duty is to develop the construction of the **Requirements Analysis and System Specification** report. This includes building the cover and indexes (main index and figure index), adding sections and subsections in order to structure the document in a well-organized manner with the appropriate measures. 
-Not very important but crucial for the following phases, you will have to apply your web programming knowledge (HTML, CSS, JavaScript, PHP) in order to develop a website that interacts with the database (Microsoft SQL Server). The design will have to be developed in conjunction with element **A18529** so that you can discuss ideas based on the developed mockups.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Learning Laravel
 
-**A20454** and **A15255**, your duty is to investigate the diagrams in UML format. Meanwhile, **A20451**, your task is to create a document in Word that will help organize the ideas that will be implemented later. This document will include all the necessary diagrams for specification design.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-Diagrams:
-- USE CASES DIAGRAM
-- RELATIONSHIP ENTITIES DIAGRAM
-- CLASS DIAGRAM
-- SEQUENCE DIAGRAM
-- BUSINESS PROCESS MODEL DIAGRAM
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-**A20451**, your duty is to prepare a final report of the specification phase. As the product owner of the project, you are responsible for delivering the report in PDF format before the deadline. In preparing the work, you are the one who will communicate with the company that is providing the development service for the **AUTOPREM** software made by **SoftLogic Innovations** from the **Premium Motors**. You have the duty to present and defend the product in all sprints, you will have to assemble the team and distribute functions and tasks.
+## Laravel Sponsors
 
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-**A18529**, your main duty for the first phase is to study and investigate online websites about service sales companies, particularly those related to the car industry. Afterwards, you will have to create the mockups in Figma and deliver them to **A20456**, who will be creating usability tests with different templates with the aim of modernizing and making the interaction with the user as user-friendly as possible.
+### Premium Partners
 
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
